@@ -49,6 +49,7 @@ Space Raiders - Arcade Space Shooter Game
 Welcome to Space Raiders, an exciting arcade-style space shooter game where you defend Earth from waves of alien invaders! Take control of your spaceship and battle through multiple challenging levels.
 
 How to Play
+https://www.youtube.com/watch?v=WIBSPhffOHI
 
 Here are the instructions for downloading and playing the game:
 To play Cosmic Raider Blasters:
