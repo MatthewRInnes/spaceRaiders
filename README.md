@@ -10,6 +10,8 @@ Scripts:
 dev: Starts the development server
 build: Creates a production build
 build:dev: Creates a development build
+![spaceraidersHome](https://github.com/user-attachments/assets/af33fd29-8d07-4690-bd57-436e9f18347d)
+
 lint: Runs the linter
 preview: Previews the production build
 Dependencies: Lists all production and development dependencies
@@ -20,6 +22,7 @@ Plugins: Configures React with SWC compiler
 Module Resolution: Sets up path aliases for cleaner imports
 
 Source Files
+![spaceRaidersGameover](https://github.com/user-attachments/assets/1179159e-3b7f-4f04-ae9e-2f61dab57367)
 
 index.html
 Meta Tags: Contains essential meta information for SEO and social sharing
@@ -63,6 +66,7 @@ Rocket Button: Fire bullets
 Right Button: Move right
 
 Game Features
+![spaceraidersHome](https://github.com/user-attachments/assets/7cb1a581-62c0-4037-9606-0b7062e0125b)
 
 Your Spaceship
 Health: You start with 100 health points
@@ -117,6 +121,7 @@ Level 4: BOSS LEVEL - Face your first boss battle
 Level 5: Faster, more aggressive enemies
 Level 6: Maximum difficulty with all enemy types
 Level 7: Final boss battle - Ultimate challenge
+![spaceRaidersLightmdoe](https://github.com/user-attachments/assets/234350ac-ee84-4ed4-9eb9-caab5e9ea701)
 
 Scoring System
 Basic Enemy: 10 points
