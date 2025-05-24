@@ -10,7 +10,8 @@ Scripts:
 dev: Starts the development server
 build: Creates a production build
 build:dev: Creates a development build
-![spaceraidersHome](https://github.com/user-attachments/assets/af33fd29-8d07-4690-bd57-436e9f18347d)
+![spaceRaidersGamePLay](https://github.com/user-attachments/assets/6c16b8a5-a8e9-4b04-8232-5c1562b3d9c1)
+
 
 lint: Runs the linter
 preview: Previews the production build
