@@ -10,6 +10,7 @@ Scripts:
 dev: Starts the development server
 build: Creates a production build
 build:dev: Creates a development build
+
 ![spaceRaidersGamePLay](https://github.com/user-attachments/assets/6c16b8a5-a8e9-4b04-8232-5c1562b3d9c1)
 
 
@@ -23,6 +24,8 @@ Plugins: Configures React with SWC compiler
 Module Resolution: Sets up path aliases for cleaner imports
 
 Source Files
+
+
 ![spaceRaidersGameover](https://github.com/user-attachments/assets/1179159e-3b7f-4f04-ae9e-2f61dab57367)
 
 index.html
@@ -49,6 +52,7 @@ Space Raiders - Arcade Space Shooter Game
 Welcome to Space Raiders, an exciting arcade-style space shooter game where you defend Earth from waves of alien invaders! Take control of your spaceship and battle through multiple challenging levels.
 
 How to Play
+
 https://www.youtube.com/watch?v=WIBSPhffOHI
 
 Here are the instructions for downloading and playing the game:
@@ -78,6 +82,8 @@ Rocket Button: Fire bullets
 Right Button: Move right
 
 Game Features
+
+
 ![spaceraidersHome](https://github.com/user-attachments/assets/7cb1a581-62c0-4037-9606-0b7062e0125b)
 
 Your Spaceship
@@ -133,6 +139,8 @@ Level 4: BOSS LEVEL - Face your first boss battle
 Level 5: Faster, more aggressive enemies
 Level 6: Maximum difficulty with all enemy types
 Level 7: Final boss battle - Ultimate challenge
+
+
 ![spaceRaidersLightmdoe](https://github.com/user-attachments/assets/234350ac-ee84-4ed4-9eb9-caab5e9ea701)
 
 Scoring System
