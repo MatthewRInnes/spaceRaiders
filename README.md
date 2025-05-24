@@ -50,6 +50,16 @@ Welcome to Space Raiders, an exciting arcade-style space shooter game where you 
 
 How to Play
 
+Here are the instructions for downloading and playing the game:
+To play Cosmic Raider Blasters:
+Download the game from: https://github.com/MatthewRInnes/spaceRaiders
+Click the green "Code" button and select "Download ZIP"
+Extract the ZIP file to your computer
+Install Node.js from https://nodejs.org/ (LTS version)
+Open the game folder and run "npm install"
+Run "npm run dev" to start the game
+The game will open in your browser at http://localhost:8080
+
 Starting the Game
 Click START GAME from the main menu to begin your mission
 Your spaceship appears at the bottom of the screen
