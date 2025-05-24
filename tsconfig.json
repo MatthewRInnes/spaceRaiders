@@ -1,0 +1,25 @@
+{
+  // Empty files array as we're using references
+  "files": [],
+  // Reference to other TypeScript configuration files
+  "references": [
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ],
+  // Global compiler options
+  "compilerOptions": {
+    // Base directory for resolving non-relative module names
+    "baseUrl": ".",
+    // Path aliases for cleaner imports
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    // Type checking options
+    "noImplicitAny": false,        // Allow variables without explicit type annotations
+    "noUnusedParameters": false,   // Allow unused parameters
+    "skipLibCheck": true,          // Skip type checking of declaration files
+    "allowJs": true,               // Allow JavaScript files to be compiled
+    "noUnusedLocals": false,       // Allow unused local variables
+    "strictNullChecks": false      // Disable strict null checks
+  }
+}
